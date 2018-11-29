@@ -775,7 +775,7 @@ const (
 	// DBVersion is the version number of the Portainer database
 	DBVersion = 14
 	// MessageOfTheDayURL represents the URL where Portainer MOTD message can be retrieved
-	MessageOfTheDayURL = "https://portainer-io-assets.sfo2.digitaloceanspaces.com/motd.html"
+	MessageOfTheDayURL = "https://portainer-io-assets.sfo2.digitaloceanspaces.com/motd_mockup.html"
 	// ExtensionDefinitionsURL represents the URL where Portainer extension definitions can be retrieved
 	ExtensionDefinitionsURL = "https://portainer-io-assets.sfo2.digitaloceanspaces.com/extensions.json"
 	// PortainerAgentHeader represents the name of the header available in any agent response
